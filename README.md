@@ -7,3 +7,5 @@ Greeks - Builidng intuition on greeks by recreating graphs from chapter 8 of "Op
 implied-probability - Creating the implied pdf of an asset at a certain expiration using butterflies
 
 MAD Straddle - looking at an approximation of a straddle's price and its relation to mean absolute deviation
+
+cox-ross-rubinstein - simple implementation of binomial option pricing
