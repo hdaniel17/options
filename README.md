@@ -8,4 +8,4 @@ implied-probability - Creating the implied pdf of an asset at a certain expirati
 
 MAD Straddle - looking at an approximation of a straddle's price and its relation to mean absolute deviation
 
-cox-ross-rubinstein - simple implementation of binomial option pricing
+option_functions - functions for CRR pricing, B-S pricing, greeks, implied volatility
