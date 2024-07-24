@@ -9,3 +9,5 @@ implied-probability - Creating the implied pdf of an asset at a certain expirati
 MAD Straddle - looking at an approximation of a straddle's price and its relation to mean absolute deviation
 
 option_functions - functions for CRR pricing, B-S pricing, greeks, implied volatility
+
+vol_surface - quick 3d plot of implied vol surface using yfinance
